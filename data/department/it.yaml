@@ -1,5 +1,5 @@
 ---
-acsc_e8_office_hardening::macro_setting: 'all_macros_disabled'
+acsc_e8_office_hardening::macro_setting: 'macros_from_trusted_locations'
 acsc_e8_office_hardening::trusted_locations: 
   verify_macro_location:
     path: 'c:\\Macros'
