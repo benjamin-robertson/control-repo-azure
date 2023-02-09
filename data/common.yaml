@@ -1,2 +1,3 @@
 ---
-message: "This node is using common data"
+acsc_e8_office_hardening::macro_setting: 'clear_macro_settings'
+acsc_e8_office_hardening::disable_macros: false
