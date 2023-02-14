@@ -1,8 +1,0 @@
----
-acsc_e8_office_hardening::macro_setting: 'macros_from_trusted_locations'
-acsc_e8_office_hardening::trusted_locations: 
-  verify_macro_location:
-    path: 'c:\\Macros'
-    date: '08/02/2023 12:00 PM'
-    description: 'Location to verify macros before signing'
-    allowsub: true
